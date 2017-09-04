@@ -1,0 +1,13 @@
+f88927d7cafe87b46b01704ae7ee7286 *DESCRIPTION
+3c986c3274d5db0e5d1bacd3d5141d49 *LICENSE
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+3e7aa15d77e573df6131f636e6f8ccaa *R/data.R
+cb0cbac6ccce2e52a9cb5292ac4a8d95 *data/datalist
+76ca411658cc3ce5c837bd654524d4fd *data/lyrics.rda
+b67bb1bfb177a8d164b3647966977839 *data/spotify_playlists.rda
+0fe593d29284f0cb9b678091de76cc1e *data/spotify_track_data.rda
+b0d8f2d0a0824ab0d7642da3b6b2541a *data/wiki_hot_100s.rda
+122f97b476760214e5986c0ede324bb9 *man/lyrics.Rd
+d3022b256234007ebafc9044abca0b37 *man/spotify_playlists.Rd
+e9f00b9a52cab57fe946eb4794b324f0 *man/spotify_track_data.Rd
+0971245f397ec8b5a296e598f941f532 *man/wiki_hot_100s.Rd
